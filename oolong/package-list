@@ -1,0 +1,7 @@
+$dokka.format:gfm
+$dokka.linkExtension:md
+
+oolong
+oolong.dispatch
+oolong.effect
+oolong.next
